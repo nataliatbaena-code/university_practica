@@ -1,0 +1,53 @@
+[33mcommit 5de6b5f2e414642fcca435544815c2795513e12d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mboton[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Natalia <nataliatbaena@gmail.com>
+Date:   Sun May 3 14:15:41 2026 -0500
+
+    modifiqué prueba.txt desde clone
+
+[33mcommit 0ccf51f45132666617723c8edc39f5f688d0f165[m
+Author: Natalia <nataliatbaena@gmail.com>
+Date:   Wed Apr 29 12:02:06 2026 -0500
+
+    agregué archivo prueba LOL
+
+[33mcommit 1095defb011f46eef2aace5bb86810daf84430a2[m
+Author: Santiago Uribe <santiagojoseu4@gmail.com>
+Date:   Mon Apr 27 19:05:04 2026 -0500
+
+    corregir requirements.txt
+
+[33mcommit 873337c8a788ba95e69a9ca21e0c298893d321ef[m
+Author: Santiago Uribe <santiagojoseu4@gmail.com>
+Date:   Mon Apr 27 19:00:51 2026 -0500
+
+    Cambios requeridos en el main e index.html
+
+[33mcommit e11336b6dca1df82910b35d53b8dd5183277a2e5[m
+Author: Santiago Uribe <santiagojoseu4@gmail.com>
+Date:   Mon Apr 27 18:49:29 2026 -0500
+
+    Se modifico el index.html e index.js, a la vez se añadio el styles
+
+[33mcommit 619bcc85be7e90f5321c1fba7cd16bc84bdffdf2[m
+Author: Santiago Uribe <santiagojoseu4@gmail.com>
+Date:   Sun Apr 26 18:08:55 2026 -0500
+
+    Se Actualizo el main, student_contro, students y se añadio un nuevo archivo llamado auth
+
+[33mcommit c758ea8ebed1b1dd26c10ec83cc74232458bc7e5[m
+Author: Your Name <you@example.com>
+Date:   Thu Apr 23 19:28:51 2026 -0500
+
+    Se agrega el archivo requirements.txt
+
+[33mcommit b94eabe0eb7b8d48d58e3d0dbd628a74028cfd27[m
+Author: Your Name <you@example.com>
+Date:   Thu Apr 23 19:11:03 2026 -0500
+
+    Se agrego gitignore
+
+[33mcommit 257daae8b884eafe74d2f1cbbfe95be8c6287dfa[m
+Author: Your Name <you@example.com>
+Date:   Thu Apr 9 20:04:50 2026 -0500
+
+    Primer commit
